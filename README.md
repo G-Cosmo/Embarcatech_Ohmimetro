@@ -58,3 +58,7 @@ Controle via Botões:
 
 O circuito deve ser construido com dois resistores em série, uma alimentação conectada à saída constante de 3.3V da placa e a um terminal do resistor de referencia, 
 um terra conectado ao GND da placa e a um terminal do resistor desconhecido, e a entrada analógica conectada ao pino 28 da placa e ao nó que une os dois resistores.
+
+# Vídeo Demonstrativo
+
+https://youtu.be/PX6EQbrsgdo
