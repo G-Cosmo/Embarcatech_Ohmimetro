@@ -1,0 +1,7 @@
+build
+.vscode
+extra
+imagens
+wokwi.toml
+pico_sdk_import.cmake
+diagram.json
